@@ -204,12 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ImageHash for perceptual hashing implementation
 - BeautifulSoup for HTML parsing
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/webpage-similarity-detector](https://github.com/yourusername/webpage-similarity-detector)
-
 ---
 
 **Note**: This tool is designed for legitimate web analysis purposes. Please respect robots.txt files and website terms of service when analyzing web content.
+
